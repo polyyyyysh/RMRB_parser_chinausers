@@ -1,0 +1,8 @@
+selenium
+pandas
+requests
+beautifulsoup4
+openpyxl
+scikit-learn
+jieba
+nltk
